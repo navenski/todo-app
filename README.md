@@ -1,2 +1,2 @@
-# todo-app
+# android todo-app
 Simple todo app. Using Jetpack components
