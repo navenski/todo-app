@@ -1,2 +1,2 @@
 # todo-app
-Sample todo app. Using Jetpack components
+Simple todo app. Using Jetpack components
